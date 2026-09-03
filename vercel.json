@@ -5,7 +5,7 @@
       "destination": "/.well-known/$1"
     },
     {
-      "source": "/((?!assets|_next|favicon|robots|sitemap|\.well-known).*)",
+      "source": "/((?!assets|_next|favicon|robots|sitemap|\\.well-known).*)",
       "destination": "/index.html"
     }
   ],
